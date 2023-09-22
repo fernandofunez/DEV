@@ -1,0 +1,41 @@
+H1{
+    color: rgb(155, 155, 20);
+    text-align: center;
+}
+
+.img-container{
+    text-align: center;
+    margin-top: 63px;
+}
+.text-container{
+    text-align: center;
+    
+}
+a:hover{
+
+color: rgb(126, 204, 204);
+}
+
+.lorem{
+    color: aliceblue;
+    position: relative;
+    left: 30%;
+    transform: translatex(-50px); 
+    width: 40%;
+    height: 100px;
+    margin:2em ;
+    border: 3px;
+    font-size: 100%;
+
+    
+}
+body{
+    background-image: url(img/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+   
+
+
+}
